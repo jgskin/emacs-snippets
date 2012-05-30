@@ -1,0 +1,8 @@
+# contributor: Jessé Alves Galdino (galdino.jesse@gmail.com)
+# name: class
+# key: class
+# --
+$1class ${2:Name}${3: extends ${4:AnotherClass}}${5: implements ${6:AInterface}}
+{
+  $0
+}

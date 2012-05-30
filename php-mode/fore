@@ -1,0 +1,7 @@
+# contributor: Jessé Alves Galdino (galdino.jesse@gmail.com)
+# name: foreach
+# key: fore
+# --
+foreach (${1:$array} as ${2:key}${3: => ${4:$value}}) {
+  $0
+} 

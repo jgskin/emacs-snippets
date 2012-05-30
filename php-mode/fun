@@ -1,0 +1,8 @@
+# contributor: Jessé Alves Galdino (galdino.jesse@gmail.com)
+# name: fun
+# key: fun
+# --
+${1:public }function ${2:funName}(${3:args})
+{
+  $0
+}
